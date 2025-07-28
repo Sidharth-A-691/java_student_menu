@@ -8,7 +8,7 @@ public class Test {
         boolean running = true;
 
         while (running) {
-            System.out.println("Menu Driven Program:");
+            System.out.println("Menu:");
             System.out.println("1. Add Student");
             System.out.println("2. Get Student by ID");
             System.out.println("3. Get Practical Marks by Student ID and Semester");
